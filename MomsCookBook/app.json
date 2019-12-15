@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Moms-cook-book",
-    "slug": "moms-cook-book",
+    "name": "MomsCookBook",
+    "slug": "MomsCookBook",
     "privacy": "public",
     "sdkVersion": "35.0.0",
     "platforms": [
